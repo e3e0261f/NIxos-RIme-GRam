@@ -1,0 +1,5 @@
+patch:
+  "menu/page_size": 9
+  schema_list:
+    - schema: double_pinyin_flypy   # ⭐️ 小鶴雙拼 (預設第 1 位)
+    - schema: clover                # 四葉草全拼
