@@ -1,10 +1,5 @@
-# NIxos-RIme-GRam--
 
 # 🍀 NIxos-RIme-GRam
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fkxxyz/rime-cloverpinyin/master/logo.png" width="120" alt="Rime Clover Logo" />
-</p>
 
 <p align="center">
   <strong>專為 NixOS (Fcitx5-Rime) 打造的開箱即用、八股文語意模型加持的旗艦級雙拼與全拼輸入方案</strong>
